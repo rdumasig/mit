@@ -9,7 +9,7 @@
 
 
 ```markdown
-### Co-Founder
+## Co-Founder
 RNR Digital Consultancy
 March 2017 - Present
 
@@ -20,7 +20,7 @@ March 2017 - Present
 ```
 
 ```markdown
-Consultant
+## Consultant
 Oceanbound LLC
 Feb '17 - March '2017
 -Design, develops, and improve Business Processes with a Start Up setting
@@ -28,8 +28,9 @@ Feb '17 - March '2017
 -Create Training Plan for Trainees under Web Development Team
 ```
 
-IT Help Desk
-Investor Virtual Assistant Services					
+```markdown
+## IT Help Desk
+Investor Virtual Assistant Services
 Feb. '16  - August 2017	
 
 Account Maintenance & Technical Support  
@@ -47,44 +48,45 @@ Nextiva
 -Account maintenance (Cancellations, New Service Request, Password Reset, etc) 
 -New Account Setup 
    
- Troubleshooting  
-"	Man Helpdesk Email  
-"	Troubleshoot any queries/concerns of VA's & Operations related to Technology  
-"	Network, Hardware, Software Support  
+Troubleshooting  
+-Man Helpdesk Email  
+-Troubleshoot any queries/concerns of VA's & Operations related to Technology  
+-Network, Hardware, Software Support  
    
- Automation  
-"	Manage Ticketing System (TBD - to be created in Podio)  
-"	Basic coding for any software development projects  
-"	Google Sheets  
-"	Coach Dashboard Requests 
-"	Trackers 
-"	Others (TBD) 
-"	Google Forms  
-"	Create, Manage, Collate Results, and Generate Reports for any forms needed 
-"	Sample: - Sending out holiday schedule email
-"	Collating results
-"	Making sure VA's have filed necessary requests in TCW
-"	Send Summary to Coaches/OM/Exec
-"	Database and Web Management
+Automation  
+-Manage Ticketing System (TBD - to be created in Podio)  
+-Basic coding for any software development projects  
+-Google Sheets  
+-Coach Dashboard Requests
+-Trackers 
+-Others (TBD) 
+-Google Forms  
+-Create, Manage, Collate Results, and Generate Reports for any forms needed 
+-Sample: - Sending out holiday schedule email
+-Collating results
+-Making sure VA's have filed necessary requests in TCW
+-Send Summary to Coaches/OM/Exec
+-Database and Web Management
 
 Tools
-"	Infusionsoft 
-"	Podio
-"	Zendesk 
-"	GTM
-"	Wordpress
-"	Clickfunnel
-
+-Infusionsoft 
+-Podio
+-Zendesk 
+-GTM
+-Wordpress
+-Clickfunnel
+```
    
-
-Recruitment Manager
-Investor Virtual Assistant Services					Jan. '15  - January '16		
-"	Designs, develops and maintain the recruitment process in the organization (including its description, recruitment measurement definitions, regular measurement reporting, taking proper actions to close gaps)
-"	Explores the market best practices in the recruitment and staffing and implement appropriate best practices in the organization
-"	Sets the social media communication strategy for different job profiles and functions in the organization
-"	Conducts job interviews for the managerial job positions (or key jobs in the organization)
-"	Manages and develops the team of HR Recruiters
-"	Acts as a single point of contact for managers regarding recruitment topics
+```markdown
+## Recruitment Manager
+Investor Virtual Assistant Services
+Jan. '15  - January '16		
+-Designs, develops and maintain the recruitment process in the organization (including its description, recruitment measurement definitions, regular measurement reporting, taking proper actions to close gaps)
+-Explores the market best practices in the recruitment and staffing and implement appropriate best practices in the organization
+-Sets the social media communication strategy for different job profiles and functions in the organization
+-Conducts job interviews for the managerial job positions (or key jobs in the organization)
+-Manages and develops the team of HR Recruiters
+-Acts as a single point of contact for managers regarding recruitment topics
 
 
 Client Success Coach
