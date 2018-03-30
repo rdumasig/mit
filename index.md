@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Resume
 
 Rey Leonard T. Dumasig						 
 E-mail Address:	rey@rnrdigitalconsultancy.com		
@@ -6,37 +6,40 @@ Mobile Number:	+63998.790.1220
 
 
 Co-Founder								
-RNR Digital Consultancy							March 2017 - Present
-"	Design, develops, and improve Business Processes with a Start Up setting
-"	Handles Client acquisition and Marketing
-"	Create Training Plan for the Web Development Team
-"	In charge with SEO Projects for Client's website
+RNR Digital Consultancy							
+March 2017 - Present
+-Design, develops, and improve Business Processes with a Start Up setting
+-Handles Client acquisition and Marketing
+-Create Training Plan for the Web Development Team
+-In charge with SEO Projects for Client's website
 
 
 Consultant
-Oceanbound LLC 							Feb '17 - March '2017
-"	Design, develops, and improve Business Processes with a Start Up setting
-"	Assist Head Developer with their escalations to Client
-"	Create Training Plan for Trainees under Web Development Team
+Oceanbound LLC 							
+Feb '17 - March '2017
+-Design, develops, and improve Business Processes with a Start Up setting
+-Assist Head Developer with their escalations to Client
+-Create Training Plan for Trainees under Web Development Team
 
 
 IT Help Desk
-Investor Virtual Assistant Services					Feb. '16  - August 2017	
+Investor Virtual Assistant Services					
+Feb. '16  - August 2017	
 
 Account Maintenance & Technical Support  
-"	Ensure all software used for operations is active and working efficiently  
-"	Interact with Vendors as necessary for account maintenance/troubleshooting  
-"	Research and documentation of any software to fill anticipated needs  
+-Ensure all software used for operations is active and working efficiently  
+-Interact with Vendors as necessary for account maintenance/troubleshooting  
+-Research and documentation of any software to fill anticipated needs  
 
 TimeClockWizard 
-"	Creating/Deleting/ Updating Profiles 
-"	Password Resets 
+-Creating/Deleting/ Updating Profiles 
+-Password Resets 
 
-  Nextiva 
-"	Act as POC 
-"	Troubleshooting / TechSupport 
-"	Account maintenance (Cancellations, New Service Request, Password Reset, etc) 
-"	New Account Setup 
+Nextiva 
+-Act as POC 
+-Troubleshooting / TechSupport 
+-Account maintenance (Cancellations, New Service Request, Password Reset, etc) 
+-New Account Setup 
    
  Troubleshooting  
 "	Man Helpdesk Email  
