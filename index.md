@@ -1,7 +1,9 @@
 ## Resume
 
 Rey Leonard T. Dumasig						 
+
 E-mail Address:	rey@rnrdigitalconsultancy.com		
+
 Mobile Number:	+63998.790.1220
 
 
