@@ -1,23 +1,23 @@
-## Resume
-
-Rey Leonard T. Dumasig						 
-
-E-mail Address:	rey@rnrdigitalconsultancy.com		
-
-Mobile Number:	+63998.790.1220
+# My Resume
 
 
+## Rey Leonard T. Dumasig						 
 
-Co-Founder
+## E-mail Address:	rey@rnrdigitalconsultancy.com		
+
+## Mobile Number:	+63998.790.1220
+
+
+''' markdown
+### Co-Founder
 RNR Digital Consultancy
 March 2017 - Present
-
 
 -Design, develops, and improve Business Processes with a Start Up setting
 -Handles Client acquisition and Marketing
 -Create Training Plan for the Web Development Team
 -In charge with SEO Projects for Client's website
-
+'''
 
 Consultant
 Oceanbound LLC 							
