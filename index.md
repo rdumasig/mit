@@ -8,7 +8,7 @@
 ## Mobile Number:	+63998.790.1220
 
 
-''' markdown
+```markdown
 ### Co-Founder
 RNR Digital Consultancy
 March 2017 - Present
@@ -17,7 +17,7 @@ March 2017 - Present
 -Handles Client acquisition and Marketing
 -Create Training Plan for the Web Development Team
 -In charge with SEO Projects for Client's website
-'''
+```
 
 Consultant
 Oceanbound LLC 							
