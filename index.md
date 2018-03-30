@@ -19,13 +19,14 @@ March 2017 - Present
 -In charge with SEO Projects for Client's website
 ```
 
+```markdown
 Consultant
-Oceanbound LLC 							
+Oceanbound LLC
 Feb '17 - March '2017
 -Design, develops, and improve Business Processes with a Start Up setting
 -Assist Head Developer with their escalations to Client
 -Create Training Plan for Trainees under Web Development Team
-
+```
 
 IT Help Desk
 Investor Virtual Assistant Services					
